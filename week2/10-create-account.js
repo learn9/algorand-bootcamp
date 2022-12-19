@@ -36,3 +36,6 @@ createAccount();
 // Account created. Save off Mnemonic and address
 // Add funds to account using the TestNet Dispenser: 
 // https://dispenser.testnet.aws.algodev.network/
+
+// Account Address = KF5T65SK7IDF6YJI7D5ZAPFOWGQXZCYNQPRRAQR6W7BM2XA3UTKKVRJUHI
+// Account Mnemonic = method sign hockey enough since engine ostrich liberty work hood very grace chronic when next bless crater turkey need fluid puzzle creek dose abandon put
